@@ -3,6 +3,7 @@ Code for working with data from Beamtime (Sept-Oct 2026)
 
 You will likely have to change how this code "finds" and "reads" files based on your system. Code is in Python (I use Spyder to run it).
 Find what the graph should look like in the email 
+
 IMPORTANT: There is currently no part in the code to:
 1) Take the first 2000 files based on the numbering system in the file name (1-2000), NOT (0-1999)
 2) Graph that
